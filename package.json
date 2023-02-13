@@ -19,5 +19,9 @@
   "homepage": "https://github.com/bbksesame/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "prettier": "^2.8.4"
   }
 }
